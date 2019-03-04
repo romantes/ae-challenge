@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+/target
+target/html-parser-1.0-SNAPSHOT.jar
+.idea
+htmlparser.iml
